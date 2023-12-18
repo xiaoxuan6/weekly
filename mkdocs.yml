@@ -1,1 +1,28 @@
-site_name: My Docs
+site_name: xiaoxuan6's 周刊
+site_author: xiaoxuan6
+
+repo_name: xiaoxuan6/weekly
+repo_url: https://github.com/xiaoxuan6/weekly
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - accent: indigo
+      primary: white
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - accent: black
+      primary: black
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  search_index_only: true
+
+nav:
+  - 第1期: ./第1期.md
+
+copyright: Copyright &copy; 2023 <a href="https://github.com/xiaoxuan6/weekly">xiaoxuan6's</a>.
