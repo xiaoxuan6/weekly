@@ -1,23 +1,19 @@
 site_name: xiaoxuan6's 周刊
 site_author: xiaoxuan6
-
 repo_name: xiaoxuan6/weekly
 repo_url: https://github.com/xiaoxuan6/weekly
-
 extra_javascript:
   - https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
   - static/js/index.js
-
 extra:
   social:
     - icon: fontawesome/solid/blog
       link: https://xiaoxuan6.github.io
     - icon: fontawesome/brands/github-alt
       link: https://github.com/xiaoxuan6
-
 theme:
   name: material
-  custom_dir: ./overrides
+  custom_dir: overrides
   features: # https://squidfunk.github.io/mkdocs-material/setup/
     - navigation.instant # 进度指示器
     - navigation.instant.progress
@@ -48,12 +44,9 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
   search_index_only: true
-
 plugins:
   - search
   - git-revision-date-localized
-
 nav:
   - 第1期: ./第1期.md
-
 copyright: Copyright &copy; 2023 <a href="https://github.com/xiaoxuan6/weekly">xiaoxuan6's</a>.
