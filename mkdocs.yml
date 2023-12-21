@@ -11,6 +11,7 @@ extra:
       link: https://xiaoxuan6.github.io
     - icon: fontawesome/brands/github-alt
       link: https://github.com/xiaoxuan6
+
 theme:
   name: material
   custom_dir: overrides

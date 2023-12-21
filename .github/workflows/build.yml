@@ -8,6 +8,7 @@ on:
     paths:
       - 'docs/**'
       - 'mkdocs.yml'
+      - 'build.yml'
 
 jobs:
   build:
@@ -16,9 +17,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          sparse-checkout: |
-            docs
-            includes
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
@@ -27,10 +25,10 @@ jobs:
           pip install pip -U
           pip install -r requirements.txt
           filenames=$(git log -1 --name-status --pretty=format:"" | cut -f 2-)
-          if [[ $filenames =~ 第[0-9]+期|mkdocs.yml ]]; then
-            mkdocs gh-deploy --force
+          if [[ $filenames =~ 第[0-9]+期|mkdocs.yml|build.yml ]]; then
+            mkdocs build
+            mkdocs gh-deploy --clean
             echo "build successful!"
           else
             echo "no build"
           fi
-        working-directory: /home/runner/work/weekly/weekly
