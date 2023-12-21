@@ -28,7 +28,7 @@ jobs:
           pip install -r requirements.txt
           filenames=$(git log -1 --name-status --pretty=format:"" | cut -f 2-)
           if [[ $filenames =~ 第[0-9]+期|mkdocs.yml ]]; then
-            make build
+            mkdocs gh-deploy --force
             echo "build successful!"
           else
             echo "no build"
