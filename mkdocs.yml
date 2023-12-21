@@ -17,6 +17,7 @@ extra:
 
 theme:
   name: material
+  custom_dir: ./overrides
   features: # https://squidfunk.github.io/mkdocs-material/setup/
     - navigation.instant # 进度指示器
     - navigation.instant.progress
