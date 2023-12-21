@@ -4,6 +4,10 @@ site_author: xiaoxuan6
 repo_name: xiaoxuan6/weekly
 repo_url: https://github.com/xiaoxuan6/weekly
 
+extra_javascript:
+  - https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+  - static/js/index.js
+
 theme:
   name: material
   language: zh
