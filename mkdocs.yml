@@ -1,53 +1,53 @@
-site_name: xiaoxuan6's 周刊
-site_author: xiaoxuan6
-repo_name: xiaoxuan6/weekly
-repo_url: https://github.com/xiaoxuan6/weekly
-extra_javascript:
-  - https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
-  - static/js/index.js
+copyright: Copyright &copy; 2023 <a href="https://github.com/xiaoxuan6/weekly">xiaoxuan6's</a>.
 extra:
   social:
-    - icon: fontawesome/solid/blog
-      link: https://xiaoxuan6.github.io
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/xiaoxuan6
-
-theme:
-  name: material
-  custom_dir: overrides
-  features: # https://squidfunk.github.io/mkdocs-material/setup/
-    - navigation.instant # 进度指示器
-    - navigation.instant.progress
-    - navigation.tracking # 锚点追踪
-    - content.code.annotate # 代码注释
-    - content.code.copy # 代码复制按钮
-    - navigation.sections # 左侧目录滚动条
-    - navigation.top # 返回顶部按钮
-    - toc.follow
-    - search.highlight # 搜索突出显示
-    - search.share # 搜索分享
-    - search.suggest # 搜索建议 - 启用搜索建议后，搜索将显示可通过按键接受的最后一个单词的最可能的补全Right
-    - navigation.tabs
-    - navigation.tabs.sticky
-  language: zh
-  palette:
-    - accent: black
-      primary: black
-      scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-    - accent: indigo
-      primary: white
-      scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-  search_index_only: true
-plugins:
-  - search
-  - git-revision-date-localized
+  - icon: fontawesome/solid/blog
+    link: https://xiaoxuan6.github.io
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/xiaoxuan6
+extra_javascript:
+- https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+- static/js/index.js
 nav:
-  - 2023 年刊:
-    - 第1期: ./2023/第1期.md
-copyright: Copyright &copy; 2023 <a href="https://github.com/xiaoxuan6/weekly">xiaoxuan6's</a>.
+- 2023 年刊:
+  - 第2期（2023-12-25）.md: ./2023/第2期（2023-12-25）.md
+  - 第1期: ./2023/第1期.md
+plugins:
+- search
+- git-revision-date-localized
+repo_name: xiaoxuan6/weekly
+repo_url: https://github.com/xiaoxuan6/weekly
+site_author: xiaoxuan6
+site_name: xiaoxuan6's 周刊
+theme:
+  custom_dir: overrides
+  features:
+  - navigation.instant
+  - navigation.instant.progress
+  - navigation.tracking
+  - content.code.annotate
+  - content.code.copy
+  - navigation.sections
+  - navigation.top
+  - toc.follow
+  - search.highlight
+  - search.share
+  - search.suggest
+  - navigation.tabs
+  - navigation.tabs.sticky
+  language: zh
+  name: material
+  palette:
+  - accent: black
+    primary: black
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  - accent: indigo
+    primary: white
+    scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+  search_index_only: true
