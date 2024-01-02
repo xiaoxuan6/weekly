@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>xiaoxuan6&#39;s weekly</title>
         <link>https://xiaoxuan6.github.io/weekly</link>
@@ -13,6 +13,11 @@
             <title>第2期（2023-12-25）</title>
             <link>https://xiaoxuan6.github.io/weekly/2023/第2期（2023-12-25）</link>
             <description>xiaoxuan6‘s 周刊 第2期（2023-12-25）</description>
+        </item>
+        <item>
+            <title>第1期（2024-01-02）</title>
+            <link>https://xiaoxuan6.github.io/weekly/2024/第1期（2024-01-02）</link>
+            <description>xiaoxuan6‘s 周刊 第1期（2024-01-02）</description>
         </item>
     </channel>
 </rss>

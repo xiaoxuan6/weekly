@@ -1,21 +1,23 @@
 copyright: Copyright &copy; 2023 <a href="https://github.com/xiaoxuan6/weekly">xiaoxuan6's</a>.
 extra:
   social:
-    - icon: fontawesome/solid/blog
-      link: https://xiaoxuan6.github.io
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/xiaoxuan6
+  - icon: fontawesome/solid/blog
+    link: https://xiaoxuan6.github.io
+  - icon: fontawesome/brands/github-alt
+    link: https://github.com/xiaoxuan6
 extra_javascript:
-  - https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
-  - static/js/index.js
+- https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+- static/js/index.js
 nav:
-  - 2023 年刊:
-      - 第2期（2023-12-25）.md: ./2023/第2期（2023-12-25）.md
-      - 第1期: ./2023/第1期.md
-  - 🔗 RSS订阅: ./rss.xml
+- 2023 年刊:
+  - 第2期（2023-12-25）.md: ./2023/第2期（2023-12-25）.md
+  - 第1期: ./2023/第1期.md
+- 🔗 RSS订阅: ./rss.xml
+- 2024 年刊:
+  - 第1期（2024-01-02）.md: ./2024/第1期（2024-01-02）.md
 plugins:
-  - search
-  - git-revision-date-localized
+- search
+- git-revision-date-localized
 repo_name: xiaoxuan6/weekly
 repo_url: https://github.com/xiaoxuan6/weekly
 site_author: xiaoxuan6
@@ -23,32 +25,32 @@ site_name: xiaoxuan6's 周刊
 theme:
   custom_dir: overrides
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.tracking
-    - content.code.annotate
-    - content.code.copy
-    - navigation.sections
-    - navigation.top
-    - toc.follow
-    - search.highlight
-    - search.share
-    - search.suggest
-    - navigation.tabs
-    - navigation.tabs.sticky
+  - navigation.instant
+  - navigation.instant.progress
+  - navigation.tracking
+  - content.code.annotate
+  - content.code.copy
+  - navigation.sections
+  - navigation.top
+  - toc.follow
+  - search.highlight
+  - search.share
+  - search.suggest
+  - navigation.tabs
+  - navigation.tabs.sticky
   language: zh
   name: material
   palette:
-    - accent: black
-      primary: black
-      scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-    - accent: indigo
-      primary: white
-      scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+  - accent: black
+    primary: black
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  - accent: indigo
+    primary: white
+    scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
   search_index_only: true
