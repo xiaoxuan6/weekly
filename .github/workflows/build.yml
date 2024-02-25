@@ -9,6 +9,7 @@ on:
       - 'docs/**'
       - 'mkdocs.yml'
       - 'build.yml'
+      - 'docs/static/js/**'
 
 jobs:
   build:
