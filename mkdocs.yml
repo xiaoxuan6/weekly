@@ -9,12 +9,6 @@ extra_javascript:
 - https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 - static/js/index.js
 nav:
-- 2023 年刊:
-  - 第2期（2023-12-25）.md: ./2023/第2期（2023-12-25）.md
-  - 第1期: ./2023/第1期.md
-- 2024 年刊:
-  - 第1期（2024-03-17）.md: ./2024/第1期（2024-03-17）.md
-- 🔗 RSS订阅: ./rss.xml
 plugins:
 - search
 - git-revision-date-localized
@@ -36,8 +30,6 @@ theme:
   - search.highlight
   - search.share
   - search.suggest
-  - navigation.tabs
-  - navigation.tabs.sticky
   language: zh
   name: material
   palette:
