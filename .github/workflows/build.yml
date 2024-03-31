@@ -25,13 +25,6 @@ jobs:
       - run: |
           pip install pip -U
           pip install -r requirements.txt
-          filenames=$(git log -1 --name-status --pretty=format:"" | cut -f 2-)
-          echo "filenames："
-          echo $filenames
-          if [[ $filenames =~ *.md|mkdocs.yml|build.yml ]]; then
-            mkdocs build
-            mkdocs gh-deploy --clean
-            echo "build successful!"
-          else
-            echo "no build"
-          fi
+          mkdocs build
+          mkdocs gh-deploy --clean
+          echo "build successful!"
