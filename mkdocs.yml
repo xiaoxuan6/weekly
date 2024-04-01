@@ -10,6 +10,7 @@ extra_javascript:
 - static/js/index.js
 nav:
 - 2024 年刊:
+  - 第2期（2024-04-01）.md: ./2024/第2期（2024-04-01）.md
   - 第1期（2024-03-31）.md: ./2024/第1期（2024-03-31）.md
 plugins:
 - search
