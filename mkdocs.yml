@@ -14,7 +14,8 @@ nav:
   - 第2期（2024-04-01）.md: ./2024/第2期（2024-04-01）.md
   - 第1期（2024-03-31）.md: ./2024/第1期（2024-03-31）.md
 plugins:
-- search
+- search:
+    separator: '[\s\u200b\-]'
 - git-revision-date-localized
 repo_name: xiaoxuan6/weekly
 repo_url: https://github.com/xiaoxuan6/weekly
@@ -51,4 +52,3 @@ theme:
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
-  search_index_only: true
