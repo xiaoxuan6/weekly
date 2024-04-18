@@ -1,0 +1,28 @@
+name: 🔗 检查链接
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 16 1 * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.8.0
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          args: --base . --verbose --no-progress --exclude /^https:\/\/github\.com/ './docs/**/*.md'
+
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: 🔗 链接检查报告
+          content-filepath: ./lychee/out.md
+          labels: report
