@@ -17,7 +17,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
-          args: --base . --verbose --no-progress --exclude /^https:\/\/github\.com/ './docs/**/*.md'
+          args: >-
+            --verbose
+            --no-progress
+            --exclude '/^(https://github\.com|file:///home/runner/work)'
+            './docs/**/*.md'
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
