@@ -17,5 +17,5 @@ $(document).ready(function() {
         }
     }
 
-    checkURL();
+    // checkURL();
 });
