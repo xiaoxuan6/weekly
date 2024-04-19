@@ -142,3 +142,4 @@ https://www.pixelartcss.com/
 https://www.qrcode-monkey.com/
 https://www.watermarkremover.io/zh/upload
 https://zws.im
+https://github.com/gookit/slog
