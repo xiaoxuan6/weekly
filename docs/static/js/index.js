@@ -5,17 +5,18 @@ $(document).ready(function() {
     function checkURL() {
         let currentURL = window.location.href;
         let desiredURL = 'https://xiaoxuan6.github.io/weekly';
+        let uri = 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoxuan6/weekly/main/docs';
 
         if (currentURL.startsWith(desiredURL) === false) {
             $('img').each(function() {
                 let currentSrc = $(this).attr('src');
-                if (currentSrc.startsWith('/weekly/static')) {
-                    let newSrc = currentSrc.replace('/weekly/static', '/static');
+                if (currentSrc.startsWith(uri)) {
+                    let newSrc = currentSrc.replace(uri, '');
                     $(this).attr('src', newSrc);
                 }
             });
         }
     }
 
-    // checkURL();
+    checkURL();
 });
