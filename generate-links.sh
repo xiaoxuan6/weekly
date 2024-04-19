@@ -28,6 +28,6 @@ while IFS= read -r line; do
 done < "$FILENAME"
 echo 'INFO: read file successful！'
 
-rm -rf "$FILENAME"
-mv "$NEW_FILENAME" "$FILENAME"
+sort -u "$NEW_FILENAME" > "$FILENAME"
+rm -rf "$NEW_FILENAME"
 echo 'INFO: check successful！'
