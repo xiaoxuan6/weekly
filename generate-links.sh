@@ -24,7 +24,7 @@ echo 'INFO: match grep files successful！'
 
 echo 'INFO: read line doing......'
 while IFS= read -r line; do
-    echo "$line" | tr ")" " " | sed 's/].*//g' | xargs echo >> "$NEW_FILENAME"
+    echo "$line" | tr ")" " " | sed 's/].*//g'| sed 's/\/$//g' | xargs echo >> "$NEW_FILENAME"
 done < "$FILENAME"
 echo 'INFO: read file successful！'
 
