@@ -167,3 +167,5 @@ https://tgstate.vercel.app
 https://github.com/x-dr/short
 https://d.131213.xyz/
 https://github.com/hunshcn/gh-proxy
+https://github.com/Codennnn/vue-color-avatar
+https://vue-color-avatar.leoku.dev
