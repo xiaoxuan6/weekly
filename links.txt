@@ -166,3 +166,4 @@ https://tgstate.vercel.app
 https://tgstate.vercel.app
 https://github.com/x-dr/short
 https://d.131213.xyz/
+https://github.com/hunshcn/gh-proxy
