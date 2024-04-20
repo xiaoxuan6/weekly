@@ -160,3 +160,5 @@ https://vget.xyz
 https://vget.xyz
 https://github.com/missuo/Telegraph-Image-Hosting
 https://missuo.ru
+https://github.com/ifyour/cf-image-hosting
+https://images.mingming.dev
