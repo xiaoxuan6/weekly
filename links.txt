@@ -169,3 +169,5 @@ https://d.131213.xyz/
 https://github.com/hunshcn/gh-proxy
 https://github.com/Codennnn/vue-color-avatar
 https://vue-color-avatar.leoku.dev
+https://github.com/soimort/you-get
+https://you-get.org/
