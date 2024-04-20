@@ -20,7 +20,7 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --exclude '/^(https://github\.com|file:///home/runner/work)'
+            --exclude '/^(https://github\.com|file:///home/runner/work|https://mirror\.ghproxy\.com)'
             './docs/**/*.md'
 
       - name: Create Issue From File
