@@ -5,18 +5,19 @@ extra:
     link: https://xiaoxuan6.github.io
   - icon: fontawesome/brands/github-alt
     link: https://github.com/xiaoxuan6
+extra_css:
+- static/css/simpleLightbox.css
+- static/css/custom.css
 extra_javascript:
 - https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 - static/js/index.js
 - static/js/simpleLightbox.js
 - static/js/custom.js
-extra_css:
-  - static/css/simpleLightbox.css
-  - static/css/custom.css
 markdown_extensions:
-  - markdown.extensions.attr_list
+- markdown.extensions.attr_list
 nav:
 - 2024 年刊:
+  - 第18期（2024-04-20）.md: ./2024/第18期（2024-04-20）.md
   - 第17期（2024-04-19）.md: ./2024/第17期（2024-04-19）.md
   - 第16期（2024-04-18）.md: ./2024/第16期（2024-04-18）.md
   - 第15期（2024-04-17）.md: ./2024/第15期（2024-04-17）.md
