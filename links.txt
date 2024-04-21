@@ -175,3 +175,5 @@ https://github.com/xiaoli1999/custom-avatar
 https://www.xiaoli.vip/custom-avatar/
 https://github.com/xtyxtyx/sorry
 https://sorry.xuty.cc/
+https://github.com/carbon-app/carbon
+https://carbon.now.sh
