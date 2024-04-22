@@ -183,3 +183,4 @@ https://github.com/webmozarts/assert
 https://github.com/MCStreetguy/ComposerParser
 https://github.com/christofferok/laravel-emojione
 https://github.com/zu1k/nali
+https://github.com/vimsucks/wxwork-bot-go
