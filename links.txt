@@ -184,3 +184,4 @@ https://github.com/MCStreetguy/ComposerParser
 https://github.com/christofferok/laravel-emojione
 https://github.com/zu1k/nali
 https://github.com/vimsucks/wxwork-bot-go
+https://github.com/CatchZeng/dingtalk
