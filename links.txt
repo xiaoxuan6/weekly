@@ -182,3 +182,4 @@ https://github.com/cybercog/laravel-clickhouse
 https://github.com/webmozarts/assert
 https://github.com/MCStreetguy/ComposerParser
 https://github.com/christofferok/laravel-emojione
+https://github.com/zu1k/nali
