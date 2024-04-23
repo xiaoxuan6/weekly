@@ -190,3 +190,5 @@ https://github.com/sabhiram/go-gitignore
 https://github.com/easychen/wecomchan
 https://github.com/corpix/uarand
 https://github.com/softprops/action-gh-release
+https://shields.io/badges/git-hub-downloads-all-assets-all-releases
+https://shields.io/badges/git-hub-downloads-all-assets-all-releases
