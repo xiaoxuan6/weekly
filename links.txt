@@ -188,3 +188,4 @@ https://github.com/CatchZeng/dingtalk
 https://github.com/muesli/gitcha
 https://github.com/sabhiram/go-gitignore
 https://github.com/easychen/wecomchan
+https://github.com/corpix/uarand
