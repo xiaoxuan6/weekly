@@ -197,3 +197,4 @@ http://getopt-php.github.io/getopt-php/
 https://github.com/vercel-community/php?tab=readme-ov-file
 https://php.vercel.app
 https://github.com/composer-unused/composer-unused
+https://github.com/webmozarts/glob
