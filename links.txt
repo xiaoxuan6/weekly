@@ -198,3 +198,4 @@ https://github.com/vercel-community/php?tab=readme-ov-file
 https://php.vercel.app
 https://github.com/composer-unused/composer-unused
 https://github.com/webmozarts/glob
+https://github.com/mlocati/docker-php-extension-installer
