@@ -204,3 +204,5 @@ https://github.com/symfony/finder
 https://symfony.com/finder
 https://github.com/ergebnis/composer-normalize
 https://github.com/j13k/yaml-lint
+https://github.com/symfony/rate-limiter
+https://symfony.com/rate-limiter
