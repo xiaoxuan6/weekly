@@ -203,3 +203,4 @@ https://github.com/bamarni/composer-bin-plugin?tab=readme-ov-file#usage-how-does
 https://github.com/symfony/finder
 https://symfony.com/finder
 https://github.com/ergebnis/composer-normalize
+https://github.com/j13k/yaml-lint
