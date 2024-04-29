@@ -202,3 +202,4 @@ https://github.com/mlocati/docker-php-extension-installer
 https://github.com/bamarni/composer-bin-plugin?tab=readme-ov-file#usage-how-does-this-plugin-work
 https://github.com/symfony/finder
 https://symfony.com/finder
+https://github.com/ergebnis/composer-normalize
