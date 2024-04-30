@@ -208,3 +208,5 @@ https://github.com/symfony/rate-limiter
 https://symfony.com/rate-limiter
 https://github.com/symfony/browser-kit
 https://symfony.com/browser-kit
+https://github.com/spatie/holidays
+https://spatie.be/open-source
