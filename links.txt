@@ -210,3 +210,5 @@ https://github.com/symfony/browser-kit
 https://symfony.com/browser-kit
 https://github.com/spatie/holidays
 https://spatie.be/open-source
+https://github.com/symfony/filesystem
+https://symfony.com/filesystem
