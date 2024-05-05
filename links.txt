@@ -221,3 +221,4 @@ https://www.searchforjohn.com
 https://extract.pics
 https://extract.pics
 https://github.com/vlucas/phpdotenv
+https://github.com/leMaur/php-url-checker
