@@ -228,3 +228,4 @@ https://dub.co
 https://dub.co
 https://images.mingming.dev
 https://images.mingming.dev
+https://github.com/easychen/github-action-server-chan
