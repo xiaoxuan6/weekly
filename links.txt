@@ -231,3 +231,4 @@ https://images.mingming.dev
 https://github.com/easychen/github-action-server-chan
 https://socialify.git.ci
 https://socialify.git.ci
+https://github.com/lithammer/shortuuid
