@@ -234,3 +234,5 @@ https://socialify.git.ci
 https://github.com/lithammer/shortuuid
 https://superparse.com/zh
 https://superparse.com/zh
+https://www.ft12.com
+https://www.ft12.com
