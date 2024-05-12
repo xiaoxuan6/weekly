@@ -247,3 +247,4 @@ https://kms.cx
 http://985.so/9y026
 https://www.picprose.net/zh
 https://www.picprose.net/zh
+https://github.com/lorisleiva/cron-translator
