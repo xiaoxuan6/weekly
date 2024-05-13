@@ -255,3 +255,4 @@ https://tool.tanpok.com/#/ImgCompress
 https://shz.al
 https://shz.al
 https://github.com/gacts/is-stargazer
+https://github.com/actions/github-script
