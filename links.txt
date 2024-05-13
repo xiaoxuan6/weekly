@@ -254,3 +254,4 @@ https://tool.tanpok.com/#/ImgCompress
 https://tool.tanpok.com/#/ImgCompress
 https://shz.al
 https://shz.al
+https://github.com/gacts/is-stargazer
