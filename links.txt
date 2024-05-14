@@ -258,3 +258,5 @@ https://github.com/gacts/is-stargazer
 https://github.com/actions/github-script
 https://github.com/bestony/logoly
 https://www.logoly.pro/
+https://imgsmall.com
+https://imgsmall.com
