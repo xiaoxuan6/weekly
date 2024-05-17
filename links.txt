@@ -265,3 +265,4 @@ https://cmd.im
 https://koukoukou.cn
 https://koukoukou.cn
 https://github.com/joye61/pic-smaller
+https://github.com/voku/anti-xss
