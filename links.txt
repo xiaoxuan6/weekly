@@ -269,3 +269,4 @@ https://github.com/voku/anti-xss
 https://github.com/nikolaposa/rate-limit
 https://github.com/crazywhalecc/static-php-cli
 https://static-php.dev
+https://github.com/beberlei/assert
