@@ -280,3 +280,4 @@ https://github.com/wujunwei928/parse-video
 https://github.com/levigross/grequests
 https://webocr.netlify.app
 https://webocr.netlify.app
+https://github.com/yelochick/deeplx-lb
