@@ -281,3 +281,5 @@ https://github.com/levigross/grequests
 https://webocr.netlify.app
 https://webocr.netlify.app
 https://github.com/yelochick/deeplx-lb
+https://github.com/naaive/orange
+https://0-range.github.io
