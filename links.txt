@@ -289,3 +289,4 @@ https://github.com/ryszard/goskiplist
 https://github.com/spf13/afero
 https://github.com/mritd/idgen
 https://github.com/xbeginagain/generator
+https://github.com/mritd/chinaid
