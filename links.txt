@@ -287,3 +287,4 @@ https://github.com/ghodss/yaml
 https://github.com/tomasen/realip
 https://github.com/ryszard/goskiplist
 https://github.com/spf13/afero
+https://github.com/mritd/idgen
