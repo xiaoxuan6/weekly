@@ -283,3 +283,4 @@ https://webocr.netlify.app
 https://github.com/yelochick/deeplx-lb
 https://github.com/naaive/orange
 https://0-range.github.io
+https://github.com/ghodss/yaml
