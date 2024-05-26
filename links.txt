@@ -293,3 +293,4 @@ https://github.com/mritd/chinaid
 https://github.com/cdfmlr/ellipsis
 https://github.com/mtlynch/picoshare
 https://demo.pico.rocks
+https://github.com/snabb/sitemap
