@@ -298,3 +298,4 @@ https://github.com/ryangjchandler/laravel-cloudflare-turnstile
 https://github.com/PerryvanderMeer/laravel-console-validator
 https://github.com/mcuadros/go-lookup
 https://github.com/mgutz/str
+https://github.com/gosimple/slug
