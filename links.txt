@@ -299,3 +299,4 @@ https://github.com/PerryvanderMeer/laravel-console-validator
 https://github.com/mcuadros/go-lookup
 https://github.com/mgutz/str
 https://github.com/gosimple/slug
+https://github.com/manifoldco/promptui
