@@ -301,3 +301,4 @@ https://github.com/mgutz/str
 https://github.com/gosimple/slug
 https://github.com/manifoldco/promptui
 https://github.com/pbnjay/memory
+https://github.com/Delta456/box-cli-maker
