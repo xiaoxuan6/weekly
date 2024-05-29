@@ -306,3 +306,5 @@ https://github.com/sirupsen/logrus
 https://github.com/facette/natsort
 https://github.com/antchfx/jsonquery
 https://github.com/bitfield/script
+https://github.com/bosnzt/wordscheck
+https://www.wordscheck.com/
