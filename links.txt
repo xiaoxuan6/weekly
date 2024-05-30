@@ -311,3 +311,5 @@ https://www.wordscheck.com/
 https://github.com/DataHenHQ/useragent
 https://github.com/conwnet/github1s
 https://github1s.com
+https://github.com/zenorocha/clipboard.js
+https://clipboardjs.com
