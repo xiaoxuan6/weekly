@@ -309,3 +309,5 @@ https://github.com/bitfield/script
 https://github.com/bosnzt/wordscheck
 https://www.wordscheck.com/
 https://github.com/DataHenHQ/useragent
+https://github.com/conwnet/github1s
+https://github1s.com
