@@ -315,3 +315,4 @@ https://github.com/zenorocha/clipboard.js
 https://clipboardjs.com
 https://github.com/c-bata/go-prompt
 https://github.com/lycheeverse/lychee-action
+https://github.com/liushuochen/gotable
