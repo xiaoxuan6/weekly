@@ -316,3 +316,4 @@ https://clipboardjs.com
 https://github.com/c-bata/go-prompt
 https://github.com/lycheeverse/lychee-action
 https://github.com/liushuochen/gotable
+https://github.com/go-the-way/exl
