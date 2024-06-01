@@ -318,3 +318,4 @@ https://github.com/lycheeverse/lychee-action
 https://github.com/liushuochen/gotable
 https://github.com/go-the-way/exl
 https://github.com/oschwald/geoip2-golang
+https://github.com/schollz/progressbar
