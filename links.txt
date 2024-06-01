@@ -322,3 +322,4 @@ https://github.com/schollz/progressbar
 github.com/tidwall/gjson
 https://github.com/abadojack/whatlanggo
 https://github.com/tidwall/gjson
+https://github.com/go-rod/rod
