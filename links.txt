@@ -320,3 +320,4 @@ https://github.com/go-the-way/exl
 https://github.com/oschwald/geoip2-golang
 https://github.com/schollz/progressbar
 github.com/tidwall/gjson
+https://github.com/abadojack/whatlanggo
