@@ -323,3 +323,5 @@ github.com/tidwall/gjson
 https://github.com/abadojack/whatlanggo
 https://github.com/tidwall/gjson
 https://github.com/go-rod/rod
+https://github.com/xiaoxuan6/github-mirror
+https://github-mirror-alpha.vercel.app
