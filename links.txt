@@ -329,3 +329,4 @@ https://github.com/gocolly/colly
 https://go-colly.org/
 https://github.com/badges/poser
 https://poser.pugx.org
+https://github.com/telanflow/cookiejar
