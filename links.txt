@@ -327,3 +327,5 @@ https://github.com/xiaoxuan6/github-mirror
 https://github-mirror-alpha.vercel.app
 https://github.com/gocolly/colly
 https://go-colly.org/
+https://github.com/badges/poser
+https://poser.pugx.org
