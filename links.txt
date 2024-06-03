@@ -325,3 +325,5 @@ https://github.com/tidwall/gjson
 https://github.com/go-rod/rod
 https://github.com/xiaoxuan6/github-mirror
 https://github-mirror-alpha.vercel.app
+https://github.com/gocolly/colly
+https://go-colly.org/
