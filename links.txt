@@ -333,3 +333,4 @@ https://github.com/telanflow/cookiejar
 https://github.com/markthree/go-get-folder-size
 https://github.com/assimon/svbot
 https://github.com/importcjj/sensitive
+https://github.com/satori/go.uuid
