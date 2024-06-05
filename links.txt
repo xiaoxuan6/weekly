@@ -338,3 +338,4 @@ https://github.com/satori/go.uuid
 https://github.com/mdp/qrterminal
 https://github.com/fsnotify/fsnotify
 https://github.com/adam-hanna/arrayOperations
+https://github.com/huandu/xstrings?tab=readme-ov-file
