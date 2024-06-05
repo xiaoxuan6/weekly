@@ -339,3 +339,4 @@ https://github.com/mdp/qrterminal
 https://github.com/fsnotify/fsnotify
 https://github.com/adam-hanna/arrayOperations
 https://github.com/huandu/xstrings?tab=readme-ov-file
+https://github.com/codeskyblue/go-sh
