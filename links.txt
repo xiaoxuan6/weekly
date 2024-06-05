@@ -337,3 +337,4 @@ https://github.com/satori/go.uuid
 https://github.com/satori/go.uuid
 https://github.com/mdp/qrterminal
 https://github.com/fsnotify/fsnotify
+https://github.com/adam-hanna/arrayOperations
