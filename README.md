@@ -14,7 +14,7 @@
 
 备用地址2：[https://weekly-7lo.pages.dev](https://weekly-7lo.pages.dev)
 
-备用地址3：[https://xiaoxuan6.github.io](https://xiaoxuan6.github.io)
+备用地址3：[https://xiaoxuan6.github.io/weekly](https://xiaoxuan6.github.io/weekly)
 
 # 如何投稿
 
