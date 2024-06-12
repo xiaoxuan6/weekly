@@ -344,3 +344,4 @@ https://github.com/boilingfrog/etcd-learning
 https://github.com/fwwdn/sensitive-stop-words
 https://github.com/aormsby/Fork-Sync-With-Upstream-action
 https://github.com/sourcegraph/conc
+https://github.com/samber/lo
