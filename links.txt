@@ -347,3 +347,5 @@ https://github.com/sourcegraph/conc
 https://github.com/samber/lo
 https://github.com/ycvk/deeplx-local
 https://github.com/imroc/req
+https://github.com/oldj/SwitchHosts
+https://switchhosts.vercel.app
