@@ -345,3 +345,4 @@ https://github.com/fwwdn/sensitive-stop-words
 https://github.com/aormsby/Fork-Sync-With-Upstream-action
 https://github.com/sourcegraph/conc
 https://github.com/samber/lo
+https://github.com/ycvk/deeplx-local
