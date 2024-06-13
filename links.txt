@@ -349,3 +349,4 @@ https://github.com/ycvk/deeplx-local
 https://github.com/imroc/req
 https://github.com/oldj/SwitchHosts
 https://switchhosts.vercel.app
+https://github.com/gookit/goutil
