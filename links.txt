@@ -351,3 +351,4 @@ https://github.com/oldj/SwitchHosts
 https://switchhosts.vercel.app
 https://github.com/gookit/goutil
 https://github.com/OwO-Network/gDeepLX
+https://github.com/gookit/filter
