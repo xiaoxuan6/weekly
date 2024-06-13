@@ -350,3 +350,4 @@ https://github.com/imroc/req
 https://github.com/oldj/SwitchHosts
 https://switchhosts.vercel.app
 https://github.com/gookit/goutil
+https://github.com/OwO-Network/gDeepLX
