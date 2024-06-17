@@ -355,3 +355,5 @@ https://github.com/gookit/filter
 https://github.com/NickeManarin/ScreenToGif
 http://www.screentogif.com
 http://jb.caoayu.eu.org
+https://github.com/Platane/snk
+https://platane.github.io/snk
