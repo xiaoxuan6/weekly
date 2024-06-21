@@ -359,3 +359,4 @@ https://github.com/Platane/snk
 https://platane.github.io/snk
 https://github.com/niklasvh/html2canvas
 https://html2canvas.hertzen.com/
+https://github.com/rogpeppe/fastuuid
