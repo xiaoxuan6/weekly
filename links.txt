@@ -361,3 +361,4 @@ https://github.com/niklasvh/html2canvas
 https://html2canvas.hertzen.com/
 https://github.com/rogpeppe/fastuuid
 https://github.com/go-pay/unzip
+https://github.com/shabbyrobe/xmlwriter
