@@ -4,6 +4,7 @@
 [![Auth](https://img.shields.io/badge/Auth-xiaoxuan6-ff69b4)](https://github.com/xiaoxuan6)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/xiaoxuan6/weekly)](https://github.com/xiaoxuan6/weekly/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/xiaoxuan6/weekly.svg)](https://github.com/xiaoxuan6/weekly)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/xiaoxuan6/weekly)
 
 </div>
   
