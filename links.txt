@@ -348,3 +348,4 @@ https://api.uouin.com/cloudflare.html
 https://api.uouin.com/cloudflare.html
 https://github.com/duke-git/lancet
 https://github.com/validatorjs/validator.js
+https://github.com/soundasleep/html2text
