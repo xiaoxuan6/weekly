@@ -353,3 +353,4 @@ https://github.com/spatie/pdf-to-text
 https://github.com/whatwewant/action-robot-feishu
 https://github.com/forPelevin/gomoji
 https://github.com/gen2brain/beeep
+https://github.com/qishibo/AnotherRedisDesktopManager
