@@ -357,3 +357,5 @@ https://github.com/qishibo/AnotherRedisDesktopManager
 https://github.com/reactphp/event-loop
 https://reactphp.org/event-loop/
 https://github.com/leventcz/laravel-top
+https://github.com/multiavatar/multiavatar-php
+https://multiavatar.com
