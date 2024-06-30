@@ -354,3 +354,5 @@ https://github.com/whatwewant/action-robot-feishu
 https://github.com/forPelevin/gomoji
 https://github.com/gen2brain/beeep
 https://github.com/qishibo/AnotherRedisDesktopManager
+https://github.com/reactphp/event-loop
+https://reactphp.org/event-loop/
