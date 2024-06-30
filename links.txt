@@ -361,3 +361,5 @@ https://github.com/multiavatar/multiavatar-php
 https://multiavatar.com
 https:://github.com/joho/godotenv
 https://github.com/joho/godotenv
+https://github.com/redis/go-redis
+https://redis.uptrace.dev
