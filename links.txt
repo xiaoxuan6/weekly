@@ -364,3 +364,4 @@ https://github.com/joho/godotenv
 https://github.com/redis/go-redis
 https://redis.uptrace.dev
 https://github.com/charmbracelet/log
+https://github.com/chrome-php/chrome
