@@ -368,3 +368,4 @@ https://github.com/chrome-php/chrome
 https://github.com/fzdwx/infinite
 https://fzdwx.github.io/infinite/zh/guide/
 https://github.com/dromara/issues-translate-action
+https://github.com/charmbracelet/freeze
