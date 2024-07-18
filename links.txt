@@ -372,3 +372,5 @@ https://github.com/charmbracelet/freeze
 https://github.com/Cl0udG0d/Fofa-hack
 https://picfind.top
 https://github.com/VaultVulp/gp-docker-action
+https://github.com/cmliu/CF-Workers-docker.io?tab=readme-ov-file
+https://docker.fxxk.dedyn.io
