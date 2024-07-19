@@ -376,3 +376,4 @@ https://github.com/cmliu/CF-Workers-docker.io?tab=readme-ov-file
 https://docker.fxxk.dedyn.io
 https://github.com/symfony/console
 https://symfony.com/console
+https://github.com/dnoegel/php-xdg-base-dir
