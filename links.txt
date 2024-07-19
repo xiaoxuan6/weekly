@@ -381,3 +381,5 @@ https://github.com/JakubOnderka/PHP-Console-Highlighter
 https://github.com/coduo/php-humanizer
 https://github.com/spatie/pdf-to-image
 https://murze.be/2015/07/convert-a-pdf-to-an-image-using-php/
+https://github.com/gin-gonic/gin
+https://gin-gonic.com/
