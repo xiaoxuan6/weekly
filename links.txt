@@ -377,3 +377,4 @@ https://docker.fxxk.dedyn.io
 https://github.com/symfony/console
 https://symfony.com/console
 https://github.com/dnoegel/php-xdg-base-dir
+https://github.com/JakubOnderka/PHP-Console-Highlighter
