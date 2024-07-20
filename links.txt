@@ -385,3 +385,5 @@ https://github.com/gin-gonic/gin
 https://gin-gonic.com/
 https://github.com/bastengao/chinese-holidays-go
 https://jetbrains.asiones.com
+https://github.com/2016rshah/githubchart-api
+https://ghchart.rshah.org/
