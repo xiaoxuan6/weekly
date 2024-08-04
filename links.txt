@@ -403,3 +403,4 @@ https://github.com/peter-evans/create-issue-from-file
 https://github.com/cmliu/CF-Workers-docker.io
 https://docker.fxxk.dedyn.io
 https://r.jina.ai
+https://github.com/goware/emailx
