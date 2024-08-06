@@ -406,3 +406,4 @@ https://r.jina.ai
 https://github.com/goware/emailx
 https://github.com/elgohr/Publish-Docker-Github-Action
 https://github.com/tholman/github-corners
+https://github.com/Xuanwo/go-locale
