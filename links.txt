@@ -410,3 +410,4 @@ https://github.com/Xuanwo/go-locale
 https://www.i996.me
 https://www.i996.me
 https://github.com/Starainrt/astro
+https://github.com/NateScarlet/holiday-cn
