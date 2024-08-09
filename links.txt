@@ -413,3 +413,4 @@ https://github.com/Starainrt/astro
 https://github.com/NateScarlet/holiday-cn
 https://github.com/moul/http2curl
 https://manfred.life/http2curl
+https://github.com/fvbock/endless
