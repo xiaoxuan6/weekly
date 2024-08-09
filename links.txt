@@ -411,3 +411,5 @@ https://www.i996.me
 https://www.i996.me
 https://github.com/Starainrt/astro
 https://github.com/NateScarlet/holiday-cn
+https://github.com/moul/http2curl
+https://manfred.life/http2curl
