@@ -414,3 +414,5 @@ https://github.com/NateScarlet/holiday-cn
 https://github.com/moul/http2curl
 https://manfred.life/http2curl
 https://github.com/fvbock/endless
+https://github.com/catdad/canvas-confetti
+https://catdad.github.io/canvas-confetti/
