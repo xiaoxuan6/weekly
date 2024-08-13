@@ -20,7 +20,10 @@ $(document).ready(function () {
         const allLinks = document.querySelectorAll('a');
 
         allLinks.forEach(link => {
-            if (link.textContent.includes('Github 文件加速')) {
+            if (
+                link.textContent.includes('Github 文件加速') ||
+                link.textContent.includes('引导页')
+            ) {
                 link.setAttribute('target', '_blank');
             } else {
                 console.log('未找到 a 标签')
