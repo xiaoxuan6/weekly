@@ -2034,6 +2034,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#registry" class="md-nav__link">
+    前缀替换的 Registry
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2109,6 +2116,13 @@
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
     可使用镜像地址
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#registry" class="md-nav__link">
+    前缀替换的 Registry
   </a>
   
 </li>
@@ -2199,6 +2213,80 @@ tr {
 }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+
+<h2 id="registry">前缀替换的 Registry</h2>
+<p>增加前缀。比如：</p>
+<pre><code class="language-docker">k8s.gcr.io/coredns/coredns =&gt; kubesre.xyz/k8s.gcr.io/coredns/coredns
+</code></pre>
+<p>或者 (推荐方式) 支持的镜像仓库的前缀替换 就可以使用。比如：</p>
+<pre><code class="language-docker">k8s.gcr.io/coredns/coredns =&gt; k8s-gcr.kubesre.xyz/coredns/coredns
+</code></pre>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">源站</th>
+<th style="text-align: left;">替换为 <code>kubesre.xyz</code></th>
+<th style="text-align: left;">替换为 <code>libcuda.so</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">cr.l5d.io</td>
+<td style="text-align: left;">l5d.kubesre.xyz</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">docker.elastic.co</td>
+<td style="text-align: left;">elastic.kubesre.xyz</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">docker.io</td>
+<td style="text-align: left;">dhub.kubesre.xyz</td>
+<td style="text-align: left;">docker.libcuda.so</td>
+</tr>
+<tr>
+<td style="text-align: left;">gcr.io</td>
+<td style="text-align: left;">gcr.kubesre.xyz</td>
+<td style="text-align: left;">gcr.libcuda.so</td>
+</tr>
+<tr>
+<td style="text-align: left;">ghcr.io</td>
+<td style="text-align: left;">ghcr.kubesre.xyz</td>
+<td style="text-align: left;">ghcr.libcuda.so</td>
+</tr>
+<tr>
+<td style="text-align: left;">k8s.gcr.io</td>
+<td style="text-align: left;">k8s-gcr.kubesre.xyz</td>
+<td style="text-align: left;">k8s-gcr.libcuda.so</td>
+</tr>
+<tr>
+<td style="text-align: left;">registry.k8s.io</td>
+<td style="text-align: left;">k8s.kubesre.xyz</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">mcr.microsoft.com</td>
+<td style="text-align: left;">mcr.kubesre.xyz</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">nvcr.io</td>
+<td style="text-align: left;">nvcr.kubesre.xyz</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">quay.io</td>
+<td style="text-align: left;">quay.kubesre.xyz</td>
+<td style="text-align: left;">quay.libcuda.so</td>
+</tr>
+<tr>
+<td style="text-align: left;">registry.jujucharms.com</td>
+<td style="text-align: left;">jujucharms.kubesre.xyz</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
   <hr>
 <div class="md-source-file">
