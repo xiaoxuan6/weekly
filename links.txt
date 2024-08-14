@@ -419,3 +419,4 @@ https://catdad.github.io/canvas-confetti/
 https://github.com/sandoche/Darkmode.js
 https://darkmodejs.learn.uno
 https://github.com/x-dr/nsfwjs-api
+https://github.com/actions/upload-artifact
