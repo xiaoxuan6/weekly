@@ -421,3 +421,5 @@ https://darkmodejs.learn.uno
 https://github.com/x-dr/nsfwjs-api
 https://github.com/actions/upload-artifact
 https://github.com/bytedance/sonic
+https://github.com/wxpusher/wxpusher-sdk-java
+http://wxpusher.zjiecode.com/demo
