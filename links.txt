@@ -423,3 +423,5 @@ https://github.com/actions/upload-artifact
 https://github.com/bytedance/sonic
 https://github.com/wxpusher/wxpusher-sdk-java
 http://wxpusher.zjiecode.com/demo
+https://github.com/wxpusher/wxpusher-sdk-go
+http://wxpusher.zjiecode.com/demo
