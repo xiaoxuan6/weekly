@@ -447,3 +447,5 @@ http://lokeshdhakar.com/projects/lightbox2/
 https://github.com/nolimits4web/swiper
 https://swiperjs.com
 https://github.com/aFarkas/lazysizes
+https://github.com/uiwjs/copy-to-clipboard
+https://uiwjs.github.io/copy-to-clipboard
