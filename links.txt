@@ -436,3 +436,5 @@ https://github.com/dropzone/dropzone
 http://www.dropzone.dev/js
 https://github.com/sweetalert2/sweetalert2
 https://sweetalert2.github.io
+https://github.com/markedjs/marked
+https://marked.js.org
