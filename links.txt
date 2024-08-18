@@ -442,3 +442,5 @@ https://github.com/jashkenas/underscore
 https://underscorejs.org
 https://github.com/metafizzy/flickity
 https://flickity.metafizzy.co
+https://github.com/lokesh/lightbox2
+http://lokeshdhakar.com/projects/lightbox2/
