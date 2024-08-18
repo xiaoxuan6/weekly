@@ -440,3 +440,5 @@ https://github.com/markedjs/marked
 https://marked.js.org
 https://github.com/jashkenas/underscore
 https://underscorejs.org
+https://github.com/metafizzy/flickity
+https://flickity.metafizzy.co
