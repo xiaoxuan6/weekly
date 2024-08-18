@@ -426,3 +426,5 @@ http://wxpusher.zjiecode.com/demo
 https://github.com/wxpusher/wxpusher-sdk-go
 http://wxpusher.zjiecode.com/demo
 https://github.com/fukata/golang-stats-api-handler
+https://github.com/highlightjs/highlight.js
+https://highlightjs.org/
