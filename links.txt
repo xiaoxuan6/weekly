@@ -444,3 +444,5 @@ https://github.com/metafizzy/flickity
 https://flickity.metafizzy.co
 https://github.com/lokesh/lightbox2
 http://lokeshdhakar.com/projects/lightbox2/
+https://github.com/nolimits4web/swiper
+https://swiperjs.com
