@@ -449,3 +449,5 @@ https://swiperjs.com
 https://github.com/aFarkas/lazysizes
 https://github.com/uiwjs/copy-to-clipboard
 https://uiwjs.github.io/copy-to-clipboard
+https://github.com/SharzyL/pastebin-worker
+https://shz.al
