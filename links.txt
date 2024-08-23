@@ -456,3 +456,4 @@ https://day.js.org
 https://github.com/javve/list.js
 https://listjs.com
 https://github.com/rifflock/lfshook
+https://github.com/irevenko/octostats
