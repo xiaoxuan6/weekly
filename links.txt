@@ -460,3 +460,4 @@ https://github.com/irevenko/octostats
 https://github.com/irevenko/octotui/tree/main
 https://github.com/irevenko/octotui/tree/main?tab=readme-ov-file
 https://github.com/goodsign/monday
+https://github.com/d-tsuji/clipboard
