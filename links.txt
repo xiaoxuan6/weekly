@@ -462,3 +462,4 @@ https://github.com/irevenko/octotui/tree/main?tab=readme-ov-file
 https://github.com/goodsign/monday
 https://github.com/d-tsuji/clipboard
 https://github.com/getlantern/systray
+https://github.com/cratonica/2goarray
