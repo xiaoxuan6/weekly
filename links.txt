@@ -464,3 +464,4 @@ https://github.com/d-tsuji/clipboard
 https://github.com/getlantern/systray
 https://github.com/cratonica/2goarray
 https://github.com/skratchdot/open-golang
+https://github.com/akavel/rsrc
