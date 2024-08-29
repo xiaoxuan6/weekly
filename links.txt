@@ -465,3 +465,4 @@ https://github.com/getlantern/systray
 https://github.com/cratonica/2goarray
 https://github.com/skratchdot/open-golang
 https://github.com/akavel/rsrc
+https://github.com/lxn/walk?tab=readme-ov-file
