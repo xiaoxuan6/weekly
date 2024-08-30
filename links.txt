@@ -466,3 +466,5 @@ https://github.com/cratonica/2goarray
 https://github.com/skratchdot/open-golang
 https://github.com/akavel/rsrc
 https://github.com/lxn/walk?tab=readme-ov-file
+https://github.com/maypok86/otter
+https://maypok86.github.io/otter/
