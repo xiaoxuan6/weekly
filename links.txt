@@ -470,3 +470,5 @@ https://github.com/maypok86/otter
 https://maypok86.github.io/otter/
 https://github.com/rs/cors
 https://github.com/JGLTechnologies/gin-rate-limit
+https://github.com/oliamb/cutter
+http://godoc.org/github.com/oliamb/cutter
