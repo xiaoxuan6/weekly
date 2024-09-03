@@ -469,3 +469,4 @@ https://github.com/lxn/walk?tab=readme-ov-file
 https://github.com/maypok86/otter
 https://maypok86.github.io/otter/
 https://github.com/rs/cors
+https://github.com/JGLTechnologies/gin-rate-limit
