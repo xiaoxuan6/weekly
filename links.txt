@@ -473,3 +473,4 @@ https://github.com/JGLTechnologies/gin-rate-limit
 https://github.com/oliamb/cutter
 http://godoc.org/github.com/oliamb/cutter
 https://github.com/basgys/goxml2json
+https://github.com/scylladb/termtables
