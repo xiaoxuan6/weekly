@@ -485,3 +485,5 @@ https://github.com/afex/hystrix-go
 https://github.com/simon-whitehead/num-id
 https://github.com/yoda-of-soda/map2xml
 https://github.com/importcjj/sensitive
+https://github.com/grafov/m3u8
+http://tools.ietf.org/html/draft-pantos-http-live-streaming
