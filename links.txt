@@ -488,3 +488,5 @@ https://github.com/importcjj/sensitive
 https://github.com/grafov/m3u8
 http://tools.ietf.org/html/draft-pantos-http-live-streaming
 https://github.com/olekukonko/ts
+https://github.com/goproxyio/goproxy
+https://goproxy.io
