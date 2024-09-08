@@ -481,3 +481,4 @@ https://github.com/DaRealFreak/cloudflare-bp-go
 https://github.com/artdarek/go-unzip
 https://github.com/tholman/intense-images?tab=readme-ov-file
 http://tholman.com/intense-images
+https://github.com/afex/hystrix-go
