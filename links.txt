@@ -497,3 +497,5 @@ https://github.com/thoas/bokchoy
 https://github.com/matryer/try
 https://github.com/vercel/avatar
 https://avatar.vercel.sh
+https://github.com/go-redsync/redsync
+http://redis.io/topics/distlock
