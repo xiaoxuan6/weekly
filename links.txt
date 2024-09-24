@@ -511,3 +511,4 @@ https://pkg.go.dev/github.com/sundowndev/dorkgen
 https://github.com/yhat/scrape
 https://github.com/oxffaa/gopher-parse-sitemap/tree/master
 https://github.com/raviqqe/muffet
+https://github.com/sethgrid/multibar
