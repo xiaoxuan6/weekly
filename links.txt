@@ -509,3 +509,4 @@ https://github.com/thedevsaddam/govalidator
 https://github.com/sundowndev/dorkgen?tab=readme-ov-file
 https://pkg.go.dev/github.com/sundowndev/dorkgen
 https://github.com/yhat/scrape
+https://github.com/oxffaa/gopher-parse-sitemap/tree/master
