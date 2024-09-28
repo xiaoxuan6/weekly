@@ -512,3 +512,5 @@ https://github.com/yhat/scrape
 https://github.com/oxffaa/gopher-parse-sitemap/tree/master
 https://github.com/raviqqe/muffet
 https://github.com/sethgrid/multibar
+https://github.com/fancyapps/ui
+https://fancyapps.com/
