@@ -515,3 +515,4 @@ https://github.com/sethgrid/multibar
 https://github.com/fancyapps/ui
 https://fancyapps.com/
 https://github.com/Werneror/Poetry
+https://github.com/caddyserver/cache-handler
