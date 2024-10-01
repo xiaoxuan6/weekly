@@ -521,3 +521,5 @@ https://lodash.com
 https://lodash.com
 https://github.com/Masterminds/sprig
 http://masterminds.github.io/sprig/
+https://github.com/fatih/camelcase
+http://godoc.org/github.com/fatih/camelcase
