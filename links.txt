@@ -524,3 +524,5 @@ http://masterminds.github.io/sprig/
 https://github.com/fatih/camelcase
 http://godoc.org/github.com/fatih/camelcase
 https://github.com/jmespath-community/go-jmespath
+https://github.com/itorr/nbnhhsh
+https://lab.magiconch.com/nbnhhsh/
