@@ -528,3 +528,4 @@ https://github.com/itorr/nbnhhsh
 https://lab.magiconch.com/nbnhhsh/
 https://github.com/itorr/patina
 https://magiconch.com/patina/
+https://github.com/orestonce/m3u8d
