@@ -526,3 +526,5 @@ http://godoc.org/github.com/fatih/camelcase
 https://github.com/jmespath-community/go-jmespath
 https://github.com/itorr/nbnhhsh
 https://lab.magiconch.com/nbnhhsh/
+https://github.com/itorr/patina
+https://magiconch.com/patina/
