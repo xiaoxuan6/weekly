@@ -530,3 +530,4 @@ https://github.com/itorr/patina
 https://magiconch.com/patina/
 https://github.com/orestonce/m3u8d
 https://github.com/yapingcat/gomedia
+https://github.com/gin-contrib/sessions
