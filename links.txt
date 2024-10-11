@@ -539,3 +539,5 @@ https://xxx.zzz.xxx
 https://xxx.zzz.xxx
 https://github.com/gookit/validate
 https://gookit.github.io/validate/
+https://readpo.com/en/poster
+https://readpo.com/en/poster
