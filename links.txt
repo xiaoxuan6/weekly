@@ -541,3 +541,5 @@ https://github.com/gookit/validate
 https://gookit.github.io/validate/
 https://readpo.com/en/poster
 https://readpo.com/en/poster
+https://github.com/ip2location/ip2location-go
+http://www.ip2location.com
