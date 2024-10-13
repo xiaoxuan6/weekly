@@ -545,3 +545,5 @@ https://github.com/ip2location/ip2location-go
 http://www.ip2location.com
 https://github.com/glhd/linen
 https://github.com/stevebauman/purify
+https://github.com/realrashid/sweet-alert
+https://realrashid.github.io/sweet-alert
