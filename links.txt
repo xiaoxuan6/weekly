@@ -555,3 +555,5 @@ https://github.com/asaskevich/govalidator
 https://github.com/radovskyb/watcher
 https://github.com/klauspost/cpuid
 https://github.com/unrolled/secure
+https://github.com/kingparks/jetbra-activate
+https://idea.jeter.eu.org
