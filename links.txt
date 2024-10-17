@@ -553,3 +553,4 @@ https://github.com/medama-io/go-useragent
 https://pkg.go.dev/github.com/medama-io/go-useragent
 https://github.com/asaskevich/govalidator
 https://github.com/radovskyb/watcher
+https://github.com/klauspost/cpuid
