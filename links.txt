@@ -563,3 +563,5 @@ https://github.com/alessio/shellescape
 https://github.com/elazarl/goproxy
 https://github.com/coocy/emoji
 https://coocy.github.io/emoji
+https://github.com/keith-turner/ecoji
+https://ecoji.io
