@@ -561,3 +561,5 @@ https://github.com/andybalholm/cascadia
 https://github.com/montanaflynn/stats
 https://github.com/alessio/shellescape
 https://github.com/elazarl/goproxy
+https://github.com/coocy/emoji
+https://coocy.github.io/emoji
