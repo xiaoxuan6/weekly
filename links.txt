@@ -567,3 +567,4 @@ https://github.com/keith-turner/ecoji
 https://ecoji.io
 https://github.com/kyechan99/capsule-render
 https://capsule-render.vercel.app
+https://github.com/charmbracelet/log
