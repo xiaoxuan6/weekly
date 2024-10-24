@@ -570,3 +570,5 @@ https://capsule-render.vercel.app
 https://github.com/charmbracelet/log
 https://github.com/danielroe/firstcommit.is
 https://firstcommit.is
+https://github.com/rstacruz/nprogress
+http://ricostacruz.com/nprogress
