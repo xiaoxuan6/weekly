@@ -568,3 +568,5 @@ https://ecoji.io
 https://github.com/kyechan99/capsule-render
 https://capsule-render.vercel.app
 https://github.com/charmbracelet/log
+https://github.com/danielroe/firstcommit.is
+https://firstcommit.is
