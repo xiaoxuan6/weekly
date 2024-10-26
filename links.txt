@@ -576,3 +576,5 @@ https://github.com/iamkun/dayjs
 https://day.js.org
 https://github.com/unjs/ungh?tab=readme-ov-file
 https://ungh.cc
+https://github.com/kubesre/docker-registry-mirrors?tab=readme-ov-file
+https://docker.gbfeng.com
