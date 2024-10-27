@@ -587,3 +587,4 @@ https://github.com/denisbrodbeck/machineid
 https://github.com/Chechengyi/sweet-storage
 https://github.com/iam-rohid/code-to-img
 https://codetoimg.com
+https://github.com/guobao2333/DeepLX-Serverless/tree/main
