@@ -579,3 +579,4 @@ https://ungh.cc
 https://github.com/kubesre/docker-registry-mirrors?tab=readme-ov-file
 https://docker.gbfeng.com
 https://github.com/weppos/publicsuffix-go
+https://github.com/denghongcai/forsaken-mail
