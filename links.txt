@@ -584,3 +584,4 @@ https://github.com/docsifyjs/docsify
 https://docsify.js.org
 https://github.com/jasonlvhit/gocron
 https://github.com/denisbrodbeck/machineid
+https://github.com/Chechengyi/sweet-storage
