@@ -592,3 +592,4 @@ https://github.com/mixmark-io/turndown
 https://mixmark-io.github.io/turndown
 https://github.com/InVisionApp/tabular
 https://github.com/saracen/fastzip
+https://github.com/jaypipes/ghw
