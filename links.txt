@@ -599,3 +599,5 @@ https://github.com/journey-ad/Moe-Counter
 https://github.com/llychao/m3u8-downloader
 https://github.com/shurcooL/github_flavored_markdown
 https://github.com/shurcooL/github_flavored_markdown
+https://atomiks.github.io/tippyjs
+https://atomiks.github.io/tippyjs
