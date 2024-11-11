@@ -608,3 +608,4 @@ https://github.com/gin-contrib/timeout
 https://github.com/kirinlabs/utils
 https://github.com/mikefarah/yq
 https://github.com/nunomaduro/laravel-console-menu
+https://github.com/spatie/browsershot
