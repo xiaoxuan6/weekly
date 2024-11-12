@@ -610,3 +610,4 @@ https://github.com/mikefarah/yq
 https://github.com/nunomaduro/laravel-console-menu
 https://github.com/spatie/browsershot
 https://github.com/nlnwa/whatwg-url
+https://github.com/dg/rss-php
