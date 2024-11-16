@@ -614,3 +614,4 @@ https://github.com/dg/rss-php
 https://github.com/shabbyrobe/xmlwriter
 https://github.com/c-bata/go-prompt/tree/master
 https://github.com/chriswalz/bit
+https://github.com/kardianos/service
