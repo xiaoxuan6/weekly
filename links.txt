@@ -616,3 +616,4 @@ https://github.com/c-bata/go-prompt/tree/master
 https://github.com/chriswalz/bit
 https://github.com/kardianos/service
 https://github.com/technosophos/moniker
+https://github.com/hako/durafmt
