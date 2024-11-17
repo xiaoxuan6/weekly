@@ -619,3 +619,4 @@ https://github.com/technosophos/moniker
 https://github.com/hako/durafmt
 https://github.com/hako/durafmt
 https://github.com/Lengso/iplookup
+https://github.com/naptha/tesseract.js
