@@ -622,3 +622,4 @@ https://github.com/Lengso/iplookup
 https://github.com/naptha/tesseract.js
 https://github.com/dmgk/faker
 https://github.com/valyala/fastjson
+https://github.com/filhodanuvem/gitql
