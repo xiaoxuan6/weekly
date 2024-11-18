@@ -621,3 +621,4 @@ https://github.com/hako/durafmt
 https://github.com/Lengso/iplookup
 https://github.com/naptha/tesseract.js
 https://github.com/dmgk/faker
+https://github.com/valyala/fastjson
