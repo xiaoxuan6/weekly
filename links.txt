@@ -630,3 +630,4 @@ https://github.com/zyedidia/eget
 https://github.com/jessevdk/go-flags
 https://github.com/IGLOU-EU/go-wildcard
 https://github.com/btmills/geopattern
+https://github.com/antfu/markdown-it-github-alerts
