@@ -629,3 +629,4 @@ https://github.com/theyakka/tardy
 https://github.com/zyedidia/eget
 https://github.com/jessevdk/go-flags
 https://github.com/IGLOU-EU/go-wildcard
+https://github.com/btmills/geopattern
