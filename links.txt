@@ -626,3 +626,4 @@ https://github.com/filhodanuvem/gitql
 https://github.com/netinternet/remoteaddr
 https://github.com/theckman/yacspin
 https://github.com/theyakka/tardy
+https://github.com/zyedidia/eget
