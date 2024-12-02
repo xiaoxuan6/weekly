@@ -646,3 +646,4 @@ https://github.com/charmbracelet/bubbles
 https://github.com/cloudfoundry/bytefmt
 https://github.com/bgentry/speakeasy
 https://github.com/softprops/action-gh-release
+https://github.com/Lofanmi/chinese-calendar-golang
