@@ -666,3 +666,4 @@ https://iframegenerator.top
 https://iframegenerator.top
 https://github.com/charmbracelet/huh
 https://github.com/cloudfoundry-attic/jibber_jabber
+https://github.com/mcuadros/go-lookup
