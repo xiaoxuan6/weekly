@@ -665,3 +665,4 @@ https://linkify.js.org
 https://iframegenerator.top
 https://iframegenerator.top
 https://github.com/charmbracelet/huh
+https://github.com/cloudfoundry-attic/jibber_jabber
