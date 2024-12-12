@@ -671,3 +671,4 @@ https://github.com/tiny-craft/tiny-rdm
 https://github.com/LibreTranslate/LibreTranslate
 https://cn.dll-files.com
 https://cn.dll-files.com
+https://github.com/Azure/go-ntlmssp
