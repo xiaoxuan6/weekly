@@ -679,3 +679,4 @@ https://github.com/klauspost/pgzip
 https://github.com/nao1215/markdown
 https://github.com/nao1215/markdown
 https://github.com/ipinfo/cli
+https://github.com/WJQSERVER-STUDIO/ghproxy
