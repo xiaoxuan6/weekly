@@ -683,3 +683,4 @@ https://github.com/WJQSERVER-STUDIO/ghproxy
 https://github.com/jaywcjlove/markdown-style
 https://github.com/jaywcjlove/dark-mode
 https://github.com/bogdanfinn/tls-client
+https://github.com/wei/socialify
