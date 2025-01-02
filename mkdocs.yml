@@ -168,6 +168,8 @@ nav:
 - Docker 镜像加速: dockerproxy.md
 - Github 文件加速: https://github-mirror.us.kg
 - 引导页: https://xiaoxuan6.us.kg
+- 2025 年刊:
+  - 第1期（2025-01-02）.md: ./2025/第1期（2025-01-02）.md
 plugins:
 - search:
     separator: "[\\s\\u200b\\-]"
