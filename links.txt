@@ -686,3 +686,4 @@ https://github.com/bogdanfinn/tls-client
 https://github.com/wei/socialify
 https://github.com/k0kubun/go-ansi
 https://github.com/sml2h3/ddddocr
+https://github.com/JaidedAI/EasyOCR
