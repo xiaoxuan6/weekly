@@ -688,3 +688,4 @@ https://github.com/k0kubun/go-ansi
 https://github.com/sml2h3/ddddocr
 https://github.com/JaidedAI/EasyOCR
 https://jetbrains.ankio.net/license
+https://github.com/keybase/go-keychain
