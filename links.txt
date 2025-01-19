@@ -691,3 +691,4 @@ https://jetbrains.ankio.net/license
 https://github.com/keybase/go-keychain
 https://github.com/zalando/go-keyring
 https://github.com/byawitz/ggh
+https://github.com/reinhrst/fzf-lib
