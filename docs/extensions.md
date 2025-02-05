@@ -1,3 +1,10 @@
+---
+hide:
+  
+- navigation
+
+---
+
 # 谷歌插件
 
 ![view-count](https://count.getloli.com/@xiaoxuan6-extensions)
@@ -32,6 +39,9 @@
 
 ## [v_jstools](https://github.com/cilame/v_jstools)
 - 用来快速调试前端 js 代码。
+
+## [篡改猴](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar)
+- 使用用户脚本自由地改变网络
 
 
 
