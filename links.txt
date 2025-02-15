@@ -691,3 +691,4 @@ https://github.com/suhaotian/xior
 https://github.com/liujiawm/paipan
 https://github.com/jin10086/copyheaders
 https://github.com/amueller/word_cloud
+https://github.com/pydantic/pydantic
