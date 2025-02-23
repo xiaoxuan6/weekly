@@ -43,6 +43,17 @@ hide:
 ## [篡改猴](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar)
 - 使用用户脚本自由地改变网络
 
+## [GitZip for github](https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
+- 从 github 直接选取文件夹下载为压缩包
+
+## [ublacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+- 搜索引擎搜索结果黑名单
+
+## [click-to-remove-element](https://chromewebstore.google.com/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk)
+- 移除广告过滤器删不掉的元素
+
+## [猫抓](https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
+- 一个下载网页视频的软件，可以解析m3u8格式视频
 
 
 
