@@ -697,3 +697,4 @@ https://github.com/jxhczhl/JsRpc
 https://github.com/Contextualist/acp
 https://github.com/baiy/Ctool
 https://github.com/any86/any-rule
+https://github.com/microsoft/markitdown
