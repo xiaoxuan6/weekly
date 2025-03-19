@@ -701,3 +701,4 @@ https://github.com/microsoft/markitdown
 https://github.com/tqdm/tqdm
 https://github.com/AnimeKaizoku/cacher
 https://github.com/pallets/click
+https://github.com/Delgan/loguru
