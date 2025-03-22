@@ -707,3 +707,4 @@ https://github.com/jhao104/proxy_pool
 https://github.com/fake-useragent/fake-useragent
 https://github.com/x-hw/amazing-qr
 https://github.com/jiji262/douyin-downloader
+https://github.com/xxnuo/serverless-qrcode-hub?tab=readme-ov-file
