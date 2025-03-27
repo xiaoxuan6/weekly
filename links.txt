@@ -710,3 +710,4 @@ https://github.com/jiji262/douyin-downloader
 https://github.com/xxnuo/serverless-qrcode-hub?tab=readme-ov-file
 https://github.com/gacts/is-stargazer
 https://github.com/markmap/markmap
+https://bolt.new
