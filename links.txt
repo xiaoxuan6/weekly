@@ -711,3 +711,4 @@ https://github.com/xxnuo/serverless-qrcode-hub?tab=readme-ov-file
 https://github.com/gacts/is-stargazer
 https://github.com/markmap/markmap
 https://bolt.new
+https://pin.gl
