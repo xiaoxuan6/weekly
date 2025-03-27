@@ -708,3 +708,4 @@ https://github.com/fake-useragent/fake-useragent
 https://github.com/x-hw/amazing-qr
 https://github.com/jiji262/douyin-downloader
 https://github.com/xxnuo/serverless-qrcode-hub?tab=readme-ov-file
+https://github.com/gacts/is-stargazer
