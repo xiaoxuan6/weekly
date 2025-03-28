@@ -186,8 +186,7 @@ nav:
   - 第2期（2025-01-03）.md: ./2025/01/第2期（2025-01-03）.md
   - 第1期（2025-01-02）.md: ./2025/01/第1期（2025-01-02）.md
 - Docker 镜像加速: dockerproxy.md
-- Github 文件加速: https://github-mirror.us.kg
-- 引导页: https://xiaoxuan6.us.kg
+- Github 文件加速: https://github-mirror.xiaoxuan6.me
 - chrome webstore: extensions.md
 plugins:
 - search:
