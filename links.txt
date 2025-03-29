@@ -712,3 +712,4 @@ https://github.com/gacts/is-stargazer
 https://github.com/markmap/markmap
 https://bolt.new
 https://pin.gl
+https://cropimage.app
