@@ -718,3 +718,4 @@ https://github.com/vrischmann/userdir
 https://github.com/matoous/go-nanoid
 https://github.com/soloterm/screen
 https://github.com/Blaspsoft/onym
+https://github.com/beilunyang/moepush
