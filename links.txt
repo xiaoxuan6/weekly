@@ -721,3 +721,4 @@ https://github.com/Blaspsoft/onym
 https://github.com/beilunyang/moepush
 https://github.com/cdoco/common-regex
 https://github.com/segmentio/kafka-go
+https://github.com/segmentio/kafka-go
