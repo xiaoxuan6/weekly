@@ -722,3 +722,5 @@ https://github.com/beilunyang/moepush
 https://github.com/cdoco/common-regex
 https://github.com/segmentio/kafka-go
 https://github.com/segmentio/kafka-go
+https://github.com/bestZwei/ipfsbed
+https://ipfsbed.is-an.org
