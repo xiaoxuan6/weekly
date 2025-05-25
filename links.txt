@@ -731,3 +731,4 @@ https://github.com/xiyewuqiu/new-lmage
 https://github.com/juliomotol/laravel-auth-timeout
 https://github.com/Laragear/Populate
 https://github.com/laravolt/avatar
+https://github.com/mtownsend5512/read-time
