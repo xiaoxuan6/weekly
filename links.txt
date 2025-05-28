@@ -735,3 +735,4 @@ https://github.com/mtownsend5512/read-time
 https://github.com/ryangjchandler/bearer
 https://github.com/sqids/sqids-php
 https://github.com/stevebauman/location
+https://github.com/eramitgupta/laravel-disposable-email
