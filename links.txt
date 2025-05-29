@@ -737,3 +737,5 @@ https://github.com/sqids/sqids-php
 https://github.com/stevebauman/location
 https://github.com/eramitgupta/laravel-disposable-email
 https://github.com/willvincent/laravel-unique
+https://md.hi-dhl.com
+https://md.hi-dhl.com
