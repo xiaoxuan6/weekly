@@ -739,3 +739,4 @@ https://github.com/eramitgupta/laravel-disposable-email
 https://github.com/willvincent/laravel-unique
 https://md.hi-dhl.com
 https://md.hi-dhl.com
+https://github.com/chenwei-zhao/captcha-recognizer
