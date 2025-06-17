@@ -743,3 +743,4 @@ https://github.com/chenwei-zhao/captcha-recognizer
 https://github.com/j4k0xb/webcrack
 https://github.com/Xhofe/imgbed
 https://img.nn.ci
+https://github.com/maruel/natural
