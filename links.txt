@@ -744,3 +744,5 @@ https://github.com/j4k0xb/webcrack
 https://github.com/Xhofe/imgbed
 https://img.nn.ci
 https://github.com/maruel/natural
+https://github.com/MarSeventh/CloudFlare-ImgBed
+https://cfbed.sanyue.de
