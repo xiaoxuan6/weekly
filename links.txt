@@ -748,3 +748,5 @@ https://github.com/MarSeventh/CloudFlare-ImgBed
 https://cfbed.sanyue.de
 https://github.com/robinkarlberg/transfer.zip-web
 https://transfer.zip
+https://www.readme-i18n.com
+https://www.readme-i18n.com
