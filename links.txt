@@ -746,3 +746,5 @@ https://img.nn.ci
 https://github.com/maruel/natural
 https://github.com/MarSeventh/CloudFlare-ImgBed
 https://cfbed.sanyue.de
+https://github.com/robinkarlberg/transfer.zip-web
+https://transfer.zip
