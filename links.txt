@@ -754,3 +754,4 @@ https://github.com/uxiaohan/ZYCS-IMG
 https://wp-cdn.4ce.cn
 https://namso-gen.com/?tab=advance&network=random
 https://namso-gen.com/?tab=advance&network=random
+https://github.com/globocom/m3u8
