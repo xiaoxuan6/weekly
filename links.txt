@@ -762,3 +762,4 @@ http://zhoujiayao.com:8200/
 https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python?tab=readme-ov-file#windows
 https://github.com/konsheng/Sensitive-lexicon
 https://github.com/xpzouying/headless_browser
+https://github.com/konsheng/Sensitive-lexicon
