@@ -6,7 +6,7 @@ hide:
 
 ---
 
-[Docker 镜像加速站集合](https://dockerproxy.xiaoxuan6.us.kg)
+[Docker 镜像加速站集合](https://dockerproxy.xiaoxuan6.me)
 
 ## 前缀替换的 Registry
 
