@@ -767,3 +767,4 @@ https://github.com/daisixuan/Geetest-AST-
 https://github.com/0xsdeo/Bypass_Debugger
 https://quickref.hestudio.net/docs/xpath.html
 https://quickref.hestudio.net/docs/xpath.html
+https://github.com/keecth/FakeCryptoJS
