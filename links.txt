@@ -770,3 +770,5 @@ https://quickref.hestudio.net/docs/xpath.html
 https://github.com/keecth/FakeCryptoJS
 https://github.com/jsdom/jsdom
 https://github.com/jsdom/jsdom
+https://github.com/jhao104/proxy_pool
+https://jhao104.github.io/proxy_pool/
