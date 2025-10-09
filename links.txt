@@ -772,3 +772,5 @@ https://github.com/jsdom/jsdom
 https://github.com/jsdom/jsdom
 https://github.com/jhao104/proxy_pool
 https://jhao104.github.io/proxy_pool/
+https://github.com/Stuk/jszip
+https://stuk.github.io/jszip/
