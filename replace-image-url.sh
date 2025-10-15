@@ -2,9 +2,10 @@
 
 set -e
 
-for file in docs/2024/*; do
+for file in docs/2024/*/*; do
+  echo "$file";
   if [ -f "$file" ]; then
-    sed -i "s|/weekly|https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoxuan6/weekly/main/docs|g" "$file"
+    sed -i "s|https://mirror.ghproxy.com|https://ghfast.top|g" "$file"
   fi
 done
 
