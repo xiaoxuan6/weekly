@@ -5,7 +5,7 @@ $(document).ready(function () {
     function checkURL() {
         let currentURL = window.location.href;
         let desiredURL = 'https://xiaoxuan6.github.io/weekly';
-        let uri = 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoxuan6/weekly/main/docs';
+        let uri = 'https://ghfast.top/https://raw.githubusercontent.com/xiaoxuan6/weekly/main/docs';
 
         if (currentURL.startsWith(desiredURL) === false) {
             $('img').each(function () {
@@ -32,4 +32,5 @@ $(document).ready(function () {
     }
 
     checkURL();
+
 });
