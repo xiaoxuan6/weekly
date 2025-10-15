@@ -778,3 +778,5 @@ https://github.com/emn178/js-sha3
 https://github.com/emn178/js-sha3
 https://github.com/aioqzone/pychaosvm
 https://github.com/Changbaiqi/ddddocr-go
+https://github.com/tjfoc/gmsm
+http://www.wutongchain.com
