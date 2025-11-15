@@ -785,3 +785,4 @@ https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python
 https://github.com/zbuzhi/diff-excel
 https://github.com/naomi233/watchducker
 https://github.com/daodao97/code-switch
+https://github.com/tianchangNorth/WeSpy
