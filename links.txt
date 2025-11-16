@@ -787,3 +787,4 @@ https://github.com/naomi233/watchducker
 https://github.com/daodao97/code-switch
 https://github.com/tianchangNorth/WeSpy
 https://github.com/zloi-user/hideip.me
+https://github.com/vakhov/fresh-proxy-list
