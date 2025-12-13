@@ -795,3 +795,5 @@ https://github.com/CharlesPikachu/freeproxy
 https://github.com/vsme/chinese-days
 https://github.com/tw93/MiaoYan
 https://github.com/Auto-Plugin/milkup
+https://github.com/gitpetyr/ppllocr
+https://pypi.org/project/ppllocr/
