@@ -797,3 +797,4 @@ https://github.com/tw93/MiaoYan
 https://github.com/Auto-Plugin/milkup
 https://github.com/gitpetyr/ppllocr
 https://pypi.org/project/ppllocr/
+https://github.com/chenyme/grok2api
