@@ -798,3 +798,5 @@ https://github.com/Auto-Plugin/milkup
 https://github.com/gitpetyr/ppllocr
 https://pypi.org/project/ppllocr/
 https://github.com/chenyme/grok2api
+https://github.com/proxifly/free-proxy-list?tab=readme-ov-file
+https://proxifly.dev
