@@ -801,3 +801,5 @@ https://github.com/chenyme/grok2api
 https://github.com/proxifly/free-proxy-list?tab=readme-ov-file
 https://proxifly.dev
 https://github.com/frankiejun/wxpushSkin
+https://github.com/slightlee/regions_data
+https://regions.fpic.top
