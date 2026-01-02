@@ -232,6 +232,8 @@ nav:
 - Docker 镜像加速: dockerproxy.md
 - Github 文件加速: https://www.github-mirrors.zone.id
 - chrome webstore: extensions.md
+- 2026 年刊:
+  - 第1期（2026-01-02）.md: ./2026/第1期（2026-01-02）.md
 plugins:
 - search:
     separator: "[\\s\\u200b\\-]"
