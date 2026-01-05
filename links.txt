@@ -810,3 +810,4 @@ https://github.com/vsme/chinese-days
 https://chinese-days.yaavi.me
 https://github.com/qiye45/wechatDownload
 https://changfengbox.top/wechat
+https://github.com/zxcvbn001/password_brute_dictionary
