@@ -808,3 +808,5 @@ https://snowshot.top
 https://github.com/bililive-go/bililive-go
 https://github.com/vsme/chinese-days
 https://chinese-days.yaavi.me
+https://github.com/qiye45/wechatDownload
+https://changfengbox.top/wechat
