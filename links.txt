@@ -812,3 +812,4 @@ https://github.com/qiye45/wechatDownload
 https://changfengbox.top/wechat
 https://github.com/zxcvbn001/password_brute_dictionary
 https://github.com/scrapy/parsel
+https://github.com/cf-pages/Telegraph-Image
