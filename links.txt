@@ -814,3 +814,4 @@ https://github.com/zxcvbn001/password_brute_dictionary
 https://github.com/scrapy/parsel
 https://github.com/cf-pages/Telegraph-Image
 https://github.com/evi0s/WMPFDebugger
+https://github.com/breezedeus/CnOCR
