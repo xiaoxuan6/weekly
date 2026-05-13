@@ -815,3 +815,4 @@ https://github.com/scrapy/parsel
 https://github.com/cf-pages/Telegraph-Image
 https://github.com/evi0s/WMPFDebugger
 https://github.com/breezedeus/CnOCR
+https://github.com/joke2k/faker
