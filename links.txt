@@ -817,3 +817,4 @@ https://github.com/evi0s/WMPFDebugger
 https://github.com/breezedeus/CnOCR
 https://github.com/joke2k/faker
 https://github.com/0xsdeo/Fuzz_Crypto_Algorithms
+https://github.com/0xsdeo/AntiDebug_Breaker
