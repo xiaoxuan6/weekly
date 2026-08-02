@@ -820,3 +820,4 @@ https://github.com/0xsdeo/Fuzz_Crypto_Algorithms
 https://github.com/0xsdeo/AntiDebug_Breaker
 https://github.com/inbucket/html2text
 https://github.com/cention-sany/utf7
+https://github.com/go-test/deep
