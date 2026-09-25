@@ -229,9 +229,6 @@ nav:
   - 第3期（2025-01-12）.md: ./2025/01/第3期（2025-01-12）.md
   - 第2期（2025-01-03）.md: ./2025/01/第2期（2025-01-03）.md
   - 第1期（2025-01-02）.md: ./2025/01/第1期（2025-01-02）.md
-- Docker 镜像加速: dockerproxy.md
-- Github 文件加速: https://www.github-mirrors.zone.id
-- chrome webstore: extensions.md
 - 2026 年刊:
   - 第13期（2026-09-25）.md: ./2026/第13期（2026-09-25）.md
   - 第12期（2026-08-25）.md: ./2026/第12期（2026-08-25）.md
@@ -246,6 +243,9 @@ nav:
   - 第3期（2026-01-05）.md: ./2026/第3期（2026-01-05）.md
   - 第2期（2026-01-04）.md: ./2026/第2期（2026-01-04）.md
   - 第1期（2026-01-02）.md: ./2026/第1期（2026-01-02）.md
+- Docker 镜像加速: dockerproxy.md
+- Github 文件加速: https://www.github-mirrors.zone.id
+- chrome webstore: extensions.md
 plugins:
 - search:
     separator: "[\\s\\u200b\\-]"
