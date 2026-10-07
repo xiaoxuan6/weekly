@@ -829,3 +829,4 @@ github.com/araddon/dateparse
 https://github.com/liuzl/gocc
 https://github.com/billmi/go-utils
 https://github.com/fwwdn/sensitive-stop-words
+https://github.com/sky22333/hubproxy
