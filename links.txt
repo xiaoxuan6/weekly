@@ -832,3 +832,5 @@ https://github.com/fwwdn/sensitive-stop-words
 https://github.com/sky22333/hubproxy
 https://jsonmerge.com/zh
 https://jsonmerge.com/zh
+https://ckey.run
+https://ckey.run
