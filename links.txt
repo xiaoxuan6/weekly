@@ -850,3 +850,4 @@ https://github.com/du82/nonograph
 https://nonogra.ph/
 https://github.com/ywleeo/mark2
 https://ywleeo.github.io/mark2/
+https://github.com/ChengYan-3721/QRacer
