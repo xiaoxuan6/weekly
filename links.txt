@@ -860,3 +860,4 @@ https://github.com/mgdm/htmlq
 https://github.com/mdp/qrterminal
 https://github.com/toqueteos/webbrowser
 https://github.com/jaypipes/ghw
+https://github.com/kevinburke/ssh_config
