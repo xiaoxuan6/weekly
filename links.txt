@@ -865,3 +865,4 @@ https://github.com/sirupsen/logrus
 https://github.com/88250/lute
 https://github.com/emirpasic/gods
 https://github.com/jordan-wright/email
+https://github.com/makiuchi-d/gozxing
