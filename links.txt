@@ -870,3 +870,4 @@ https://github.com/bitly/go-simplejson
 https://github.com/boombuler/barcode
 https://github.com/shiena/ansicolor
 https://github.com/acarl005/stripansi
+https://github.com/elastic/go-sysinfo
