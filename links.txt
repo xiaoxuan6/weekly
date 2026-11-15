@@ -864,3 +864,4 @@ https://github.com/kevinburke/ssh_config
 https://github.com/sirupsen/logrus
 https://github.com/88250/lute
 https://github.com/emirpasic/gods
+https://github.com/jordan-wright/email
