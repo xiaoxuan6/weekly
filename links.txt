@@ -872,3 +872,4 @@ https://github.com/shiena/ansicolor
 https://github.com/acarl005/stripansi
 https://github.com/elastic/go-sysinfo
 https://github.com/muesli/termenv
+https://github.com/tidwall/btree
