@@ -874,3 +874,4 @@ https://github.com/elastic/go-sysinfo
 https://github.com/muesli/termenv
 https://github.com/tidwall/btree
 https://github.com/blinkbean/dingtalk
+https://github.com/jeremywohl/flatten
